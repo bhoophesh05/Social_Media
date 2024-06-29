@@ -1,0 +1,9 @@
+npm run dev
+npm i nodemon -D // for auto start of server
+npm i express
+npm i pug //for html
+npm i body-parser // for data processing in JSON format
+npm i mongoose //for mongodb
+npm i bcrypt //for password encrypt
+npm i epress-session // for session storage
+npm i dotenv
